@@ -98,33 +98,24 @@ project/
 - Seaborn  
 - Jupyter Notebook  
 
+
 ---
 
-## 📦 Installation | خطوات التشغيل
-
-```bash
-pip install -r requirements.txt
-jupyter notebook notebooks/sales_analysis_2019.ipynb
-
-📬 Connect With Me
-تواصل معايا
+# 📬 Connect With Me
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/amir-ayman-664513103/" target="_blank">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  <a href="https://www.linkedin.com/in/amir-ayman-664513103/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<a href="https://github.com/amirayman20" target="_blank">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+  <a href="https://github.com/amirayman20" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-<a href="mailto:amirayman20@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <a href="mailto:amirayman20@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/github/followers/amirayman20?style=social" />
-</p>
